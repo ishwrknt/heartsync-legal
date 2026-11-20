@@ -1,6 +1,6 @@
-# HeartSync privacy and support website
+# Anvita privacy and support website
 
-A buildless GitHub Pages website for HeartSync, operated by **flexiorder**. Public support: **flexiorderofficial@gmail.com**.
+A buildless GitHub Pages website for Anvita, operated by **flexiorder**. Public support: **flexiorderofficial@gmail.com**.
 
 ## Pages
 
@@ -10,7 +10,7 @@ A buildless GitHub Pages website for HeartSync, operated by **flexiorder**. Publ
 - `/contact/` — app support and privacy contact
 - `/terms/` — terms of use
 
-All internal paths are relative, so the site works at `https://ishwrknt.github.io/heartsync-legal/` as well as under a custom domain. Only static HTML, CSS and the existing HeartSync SVG icon are needed. No build or runtime dependencies, forms, analytics scripts, public app configuration or account credentials are included.
+All internal paths are relative, so the site works at `https://ishwrknt.github.io/heartsync-legal/` as well as under a custom domain. Only static HTML, CSS and the existing Anvita SVG icon are needed. No build or runtime dependencies, forms, analytics scripts, public app configuration or account credentials are included.
 
 ## Preview
 
